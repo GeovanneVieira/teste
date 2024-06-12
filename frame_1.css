@@ -1,0 +1,56 @@
+.frame-1 .rectangle-1 {
+  background: #627C55;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.frame-1 .blue-wood-1 {
+  background: url('../assets/images/blue_wood_1.png') 50% / cover no-repeat;
+  margin-bottom: 65px;
+  align-self: flex-start;
+  width: 45px;
+  height: 45px;
+}
+.frame-1 .salve-seu-bairro-salve-umarvore {
+  margin: 0 22px 10px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Gotham', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.frame-1 .esse-um-projeto-dedicado-aorganizar-ecolaborar-com-aestruta-de-so-paulo-capital-em-conjunto-com-acomunidade-dando-autonomia-aos-moradores-dos-bairros-da-metropol-se-engajar-nos-ambientes-onde-ele-frequenta-eidentificando-as-arvres-da-cidade {
+  margin-left: 22px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 900;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.frame-1 .container {
+  position: relative;
+  margin: 2px 5.1px 132px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .a-228748-ao-21 {
+  background: url('../assets/images/a_228748_ao_21.png') 50% / cover no-repeat;
+  position: relative;
+  width: 688px;
+  height: 456px;
+}
+.frame-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 12px 28px;
+  width: 853px;
+  box-sizing: border-box;
+}

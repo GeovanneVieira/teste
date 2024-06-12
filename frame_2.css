@@ -1,0 +1,90 @@
+.frame-2 .projeto {
+  overflow-wrap: break-word;
+  font-family: 'Monocode', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.frame-2 .container-3 {
+  background: #627C55;
+  position: relative;
+  margin-bottom: 40px;
+  display: flex;
+  padding: 12px 59px 9px 0;
+  width: 853px;
+  box-sizing: border-box;
+}
+.frame-2 .icone-901 {
+  background: url('../assets/images/icone_901.png') 50% / cover no-repeat;
+  width: 257px;
+  height: 257px;
+}
+.frame-2 .container {
+  border: 1px solid #627C55;
+  margin: 157px 0 44px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Monocode', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 48px;
+  color: #627C55;
+}
+.frame-2 .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .mais-de-2600-arvores-cairam-em-so-paulo-no-ano-de-2024 {
+  margin: 0 36px;
+  align-self: flex-start;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 20px;
+  color: #627C55;
+}
+.frame-2 .container {
+  margin-right: 73.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-2 .nosso-objetivo-criar-um-catlogo-virtual-para-que-os-moradores-tenham-maiores-informaes-sobre-as-arvores-na-sua-regio-quandos-anos-elas-possuem-ese-ela-tem-risco-de-queda-ou-est-com-uma-mmanuteno-dessa-forma-podemos-evitar-os-desastres-que-aconteceram-na-cidade-eincentivando-ocuidado-com-anatureza {
+  margin: 87px 0 2px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 20px;
+  color: #627C55;
+}
+.frame-2 .container-1 {
+  margin: 0 26px 49px 20px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .rectangle-2 {
+  background: #627C55;
+  margin-bottom: 17px;
+  width: 853px;
+  height: 49px;
+}
+.frame-2 .rectangle-5 {
+  background: #D9D9D9;
+  width: 377px;
+  height: 529px;
+}
+.frame-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-left: 1px;
+  width: 853px;
+  box-sizing: border-box;
+}

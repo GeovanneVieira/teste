@@ -1,0 +1,36 @@
+.frame-3 .blue-wood-2 {
+  background: url('../assets/images/blue_wood_1.png') 50% / cover no-repeat;
+  margin-bottom: 25px;
+  align-self: flex-start;
+  width: 50px;
+  height: 50px;
+}
+.frame-3 .sobre-sua-arvore-espcie-tipuana-tipuana-tipu-idade-39-anos-oultima-atualizao-28052024-regio-de-origemreas-urbanas-praas-eestradas-essa-tipuana-foi-encontrada-em-so-paulo-capital-no-bairro-parque-regina-climarvore-no-apresenta-riscos-de-acordo-com-as-mudanas-climticas-manuteno-remover-galhos-secos-doentes-ou-perigosos-usar-cobertura-para-proteja-otronco-contra-danos-mecnicos {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.frame-3 .container {
+  background: #627C55;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 0 143px 35px;
+  width: 506px;
+  box-sizing: border-box;
+}
+.frame-3 .whats-app-image-20240610-at-6021 {
+  background: url('../assets/images/whats_app_image_20240610_at_6021.jpeg') 50% / cover no-repeat;
+  width: 390px;
+  height: 520px;
+}
+.frame-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 852px;
+  box-sizing: border-box;
+}
